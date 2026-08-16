@@ -115,7 +115,7 @@ E-Commerce-Sales-Dashboard/
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot inside the `images` folder and update the image name below if required.
+
 
 ![E-Commerce Sales Dashboard](E-commerce%20sales%20dashboard.png)
 
